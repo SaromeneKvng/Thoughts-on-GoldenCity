@@ -33,9 +33,7 @@ A few high-level thoughts and questions:
 Final thoughts
 
 GoldenCity has the potential to make real estate investment accessible to more people while leading the way in integrating crypto into a traditionally cautious market. The design challenge lies in simplifying complex technology, establishing trust in a new platform, and catering to users with varying levels of technical experience.
-
-
-
+I'm excited about the opportunity to work on this project and would love to discuss these ideas further. I'm particularly interested in understanding your vision for the platform's evolution and how design can support both immediate launch goals and long-term growth.
 
 
 
